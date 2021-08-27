@@ -14,7 +14,7 @@ def computer_guess(x):
             guess = low  # could also be high b/c low = high
 
         feedback = input(f'Is {guess} too high (H) \
-            , too low (L), or correct (C)?')
+            , too low (L), or correct (C)?'.lower())
 
         if feedback == 'h':
             high = guess - 1

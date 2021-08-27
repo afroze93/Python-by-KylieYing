@@ -21,7 +21,7 @@ def computer_guess(x):
         elif feedback == 'l':
             low = guess + 1
 
+    print(f'Yay! The computer guessed your number, {guess} correctly!')
 
-print(f'Yay! The computer guessed your number, correctly!')
 
-computer_guess(10)
+computer_guess(1000)

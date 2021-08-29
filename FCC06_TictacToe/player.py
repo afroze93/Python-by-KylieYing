@@ -3,7 +3,7 @@ import random
 
 
 class Player:
-    def __int__(self, letter):
+    def __init__(self, letter):
         # letter x or o
         self.letter = letter
 
@@ -23,7 +23,7 @@ class RandomComputerPlayer(Player):
 
 
 class HumanPlayer(Player):
-    def __inti__(self, letter):
+    def __init__(self, letter):
         super().__init__(letter)
 
     def get_move(self, game):

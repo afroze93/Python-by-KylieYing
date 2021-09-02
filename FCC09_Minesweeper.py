@@ -29,7 +29,7 @@ class Board:
             for c in range(self.dim_size):
                 if self.board[r][c] == '*':
                     continue
-            self.board[r][c] = self.get_num_neighboring_bombs(r, c)
+                self.board[r][c] = self.get_num_neighboring_bombs(r, c)
 
     def get_num_neighboring_bombs(self, row, col):
         num_neighboring_bombs = 0
@@ -109,13 +109,13 @@ def play(dim_size=10, num_bombs=10):
         if not safe:
             break
     if safe:
-        print("Congratulations!!! You are Victorious!!!")
+        print("CONGRATULATIONS!!!! YOU ARE VICTORIOUS!")
     else:
-        print("Sorry, Game Over!!! :(")
+        print("SORRY GAME OVER :(")
         board.dug = [(r, c) for r in range(board.dim_size)
                      for c in range(board.dim_size)]
         print(board)
 
 
-if __name__ == '__main__':  # good practice :)
+if __name__ == '__main__':
     play()

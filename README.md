@@ -2,7 +2,7 @@
 
 This is my implementation(s) of 12x amazing Python projects created by **Kylie Ying**. I found **Kylie Ying's** work through **Free Code Camp (FCC)**, they can be reached at/through below mentioned links;
 
-**Kylie Ying Contact Links:**
+### **Kylie Ying Contact Links:**
 
 _[**Website:** https://www.kylieying.com/](https://www.kylieying.com/)_
 
@@ -16,7 +16,7 @@ _[**Youtube:** https://www.youtube.com/ycubed](https://www.youtube.com/ycubed)_
 
 _[**Instagram:** https://www.instagram.com/kylieyying/](https://www.instagram.com/kylieyying/)_
 
-**FreeCodeCamp (FCC) Contact Links:**
+### **FreeCodeCamp (FCC) Contact Links:**
 
 _[**Website:** https://www.freecodecamp.org/](https://www.freecodecamp.org/)_
 

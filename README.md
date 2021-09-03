@@ -1,3 +1,5 @@
+# H1 12 Beginer Python Projects, by Kylie Ying c/o Free Code Camp
+
 -- This is my implementation(s) of 12x amazing Python projects created by 'Kylie Ying',
 
 -- She can be reached at/through below mentioned link,

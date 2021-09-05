@@ -2,7 +2,7 @@
 
 These are collection of 12x amazing Python projects created by **Kylie Ying**. I found her work through **Free Code Camp (FCC)**, they can be reached at/through below mentioned links,
 
-### **Kylie Ying Contact Links:**
+### **Kylie Ying Contact:**
 
 > _[**Website:** https://www.kylieying.com/](https://www.kylieying.com/)_
 
@@ -16,7 +16,7 @@ These are collection of 12x amazing Python projects created by **Kylie Ying**. I
 
 > _[**Instagram:** https://www.instagram.com/kylieyying/](https://www.instagram.com/kylieyying/)_
 
-### **FreeCodeCamp (FCC) Contact Links:**
+### **FreeCodeCamp (FCC) Contact:**
 
 > _[**Website:** https://www.freecodecamp.org/](https://www.freecodecamp.org/)_
 

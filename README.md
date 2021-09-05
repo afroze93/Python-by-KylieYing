@@ -1,6 +1,6 @@
-# **12x Beginer Python Projects, by Kylie Ying c/o Free Code Camp**
+# **12x Beginner Python Projects, by Kylie Ying c/o Free Code Camp**
 
-This is my implementation of 12x amazing Python projects created by **Kylie Ying**. I found her work through **Free Code Camp (FCC)**, they can be reached at/through below mentioned links,
+These are collection of 12x amazing Python projects created by **Kylie Ying**. I found her work through **Free Code Camp (FCC)**, they can be reached at/through below mentioned links,
 
 ### **Kylie Ying Contact Links:**
 
